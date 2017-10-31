@@ -4,7 +4,6 @@ import scala.util.Random
 
 /**
  * Utilities around RandomUtils
- * Created by justin on 6/29/15.
  */
 object RandomUtils {
 
