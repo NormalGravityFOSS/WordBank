@@ -4,7 +4,6 @@ import com.normalgravity.wordbank.generators.{MultiWordGenerator, WordBankGenera
 
 /**
  * Factory Object to build get a string generator.
- * Created by normal_justin on 6/28/15.
  */
 object WordBankGeneratorFactory {
 

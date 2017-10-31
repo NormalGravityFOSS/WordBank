@@ -2,7 +2,6 @@ package com.normalgravity.wordbank.generators
 
 /**
  * Basic interface for the generator.
- * Created by normal_justin on 6/28/15.
  */
 trait WordBankGenerator {
 
